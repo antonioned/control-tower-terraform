@@ -1,2 +1,2 @@
-account_name,account_owner_email,sso_user_first_name,sso_user_last_name,sso_user_email
-John-Doe-Account,john.doe@example.com,John,Doe,john.doe@example.com
+account_name,account_owner_email,sso_user_first_name,sso_user_last_name,sso_user_email,org_unit,provisioned_product_name
+Jonh-Doe-Account,john.doe@example.com,John,Doe,john.doe@example.com,OrgName,Jonh-Doe-Account
